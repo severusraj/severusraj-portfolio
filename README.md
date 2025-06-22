@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Ralph Angelo Jaminal**. On this occasion, I'd lik
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://website.com](https://website.com/)
+**Website Link:** [https://severusraj-portfolio.vercel.app](https://severusraj-portfolio.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -240,7 +240,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Ralph Angelo Jaminal**
 
-  - Website: [https://website.com/](https://website.com/)
+  - Website: [https://severusraj-portfolio.vercel.app/](https://severusraj-portfolio.vercel.app/)
   - GitHub: [severusraj](https://github.com/severusraj/soren-portfolio.git)
 
 -----
