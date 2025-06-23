@@ -102,20 +102,38 @@ function a11yProps(index) {
   };
 }
 
-// techStacks tetap sama
+// Updated tech stack list to reflect current skills/tools. Make sure corresponding SVG/PNG logos exist in /public.
 const techStacks = [
+  // Programming Languages & Frameworks
+  { icon: "php.svg", language: "PHP" },
+  { icon: "laravel.svg", language: "Laravel" },
+  { icon: "python.svg", language: "Python" },
+  { icon: "dart.svg", language: "Dart" },
+  { icon: "javascript.svg", language: "JavaScript" },
+  { icon: "typescript.svg", language: "TypeScript" },
+
+  // Web & Mobile
   { icon: "html.svg", language: "HTML" },
   { icon: "css.svg", language: "CSS" },
-  { icon: "javascript.svg", language: "JavaScript" },
+  { icon: "reactjs.svg", language: "React.js" },
+  { icon: "nextjs.svg", language: "Next.js" },
+  { icon: "angular.svg", language: "Angular" },
+  { icon: "vue.svg", language: "Vue.js" },
   { icon: "tailwind.svg", language: "Tailwind CSS" },
-  { icon: "reactjs.svg", language: "ReactJS" },
-  { icon: "vite.svg", language: "Vite" },
-  { icon: "nodejs.svg", language: "Node JS" },
-  { icon: "bootstrap.svg", language: "Bootstrap" },
+  { icon: "flutter.svg", language: "Flutter" },
   { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
+
+  // Cloud & DevOps
+  { icon: "aws.svg", language: "AWS S3" },
+  { icon: "railway.svg", language: "Railway" },
   { icon: "vercel.svg", language: "Vercel" },
-  { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "git.svg", language: "Git" },
+  { icon: "github.svg", language: "GitHub" },
+
+  // Databases
+  { icon: "postgresql.svg", language: "PostgreSQL" },
+  { icon: "mysql.svg", language: "MySQL" },
+  { icon: "supabase.svg", language: "Supabase" },
 ];
 
 export default function FullWidthTabs() {
